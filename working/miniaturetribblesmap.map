@@ -1,0 +1,21 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "E:/TempWorkspace/GitHub/miniature-tribble/wads/rogue.wad;E:/TempWorkspace/GitHub/miniature-tribble/wads/prototype_1_2.wad"
+// brush 0
+{
+( -192 -192 0 ) ( -192 -182 0 ) ( -192 -192 1 ) blue_1 0 0 0 1 1
+( -192 -192 0 ) ( -192 -192 1 ) ( -182 -192 0 ) blue_1 0 0 0 1 1
+( -192 -192 0 ) ( -182 -192 0 ) ( -192 -182 0 ) blue_1 0 0 0 1 1
+( 1088 1088 32 ) ( 1088 1098 32 ) ( 1098 1088 32 ) blue_1 0 0 0 1 1
+( 1088 1088 32 ) ( 1098 1088 32 ) ( 1088 1088 33 ) blue_1 0 0 0 1 1
+( 1088 1088 32 ) ( 1088 1088 33 ) ( 1088 1098 32 ) blue_1 0 0 0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_deathmatch"
+"origin" "592 416 56"
+}

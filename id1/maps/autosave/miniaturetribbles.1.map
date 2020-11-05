@@ -1,0 +1,21 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "E:/QuakeDev/wads/rogue.wad"
+// brush 0
+{
+( -64 64 -16 ) ( -64 64 16 ) ( -64 -64 16 ) bricka2_2 0 0 0 1 1
+( 64 -64 16 ) ( 64 -64 -16 ) ( -64 -64 -16 ) bricka2_2 0 0 0 1 1
+( -64 -64 -16 ) ( 64 -64 -16 ) ( 64 64 -16 ) bricka2_2 -5.24724 -3.53671 0 1 1.2014
+( 64 64 16 ) ( 64 -64 16 ) ( -64 -64 16 ) bricka2_2 -5.24724 -3.53671 0 1 1.2014
+( 64 64 -16 ) ( 64 64 16 ) ( -64 64 16 ) bricka2_2 0 0 0 1 1
+( 64 64 -16 ) ( 64 -64 -16 ) ( 64 -64 16 ) bricka2_2 0 0 0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_deathmatch"
+"origin" "0 0 40"
+}
