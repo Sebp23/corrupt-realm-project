@@ -6,5 +6,5 @@ This is a singleplayer level for Quake. The main objective is to survive and esc
 ## Wiki
 * [Home](https://github.com/Sebp23/corrupt-realm-project/wiki)
 * [Manifesto](https://github.com/Sebp23/corrupt-realm-project/wiki/Manifesto)
-* [Process Journal](https://github.com/Sebp23/corrupt-realm-project/wiki/Project-Journal)
+* [Process Journal](https://github.com/Sebp23/corrupt-realm-project/wiki/Process-Journal)
 * [Theme](https://github.com/Sebp23/corrupt-realm-project/wiki/Theme)
