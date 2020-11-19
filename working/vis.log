@@ -1,7 +1,0 @@
----- vis / ericw-tools v0.18.1 ----
-running with 6 threads
-testlevel = 4
-LoadBSPFile: 'miniaturetribblesmap.bsp'
-BSP is version 29
-LoadPortals: couldn't read miniaturetribblesmap.prt
-No vising performed.
