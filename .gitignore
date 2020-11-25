@@ -13,5 +13,4 @@
 # if the files to be tracked are in subdirectories
 !QuakeDev/id1/maps/testlevel.map
 !QuakeDev/id1/maps/corruptrealm.map
-!TopdownMaps/
 
