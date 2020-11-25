@@ -1,5 +1,5 @@
 # Ignore everything
-*
+
 
 # But not these files...
 !.gitignore
@@ -13,5 +13,4 @@
 # if the files to be tracked are in subdirectories
 !QuakeDev/id1/maps/testlevel.map
 !QuakeDev/id1/maps/corruptrealm.map
-!images/TopdownMaps/
 
