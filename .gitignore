@@ -1,0 +1,17 @@
+# Ignore everything
+
+
+# But not these files...
+!.gitignore
+!.drawio
+!.png
+
+# etc...
+
+# ...even if they are in subdirectories
+!*/images
+!*/images/TopdownMaps
+
+# if the files to be tracked are in subdirectories
+!QuakeDev/id1/maps/testlevel.map
+!QuakeDev/id1/maps/corruptrealm.map
