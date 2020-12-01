@@ -1,29 +1,29 @@
 @echo off
 
 cd\
-cd E:\QuakeDev\working
+cd Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\working
 
 
 echo Copying Files...
-copy E:\QuakeDev\id1\maps\miniaturetribblesmap.map E:\QuakeDev\working
+copy Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps\testlevel.map Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\working
 
 
 echo Converting map...
 
 
 echo --------------QBSP--------------
-E:\QuakeDev\tools\ericw-tools\bin\qbsp.exe miniaturetribblesmap
+Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\tools\ericw-tools\bin\qbsp.exe testlevel
 
 echo --------------VIS---------------
-E:\QuakeDev\tools\ericw-tools\bin\vis.exe miniaturetribblesmap
+Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\tools\ericw-tools\bin\vis.exe testlevel
 
 echo -------------LIGHT--------------
-E:\QuakeDev\tools\ericw-tools\bin\light.exe miniaturetribblesmap
+Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\tools\ericw-tools\bin\light.exe testlevel
 
-copy miniaturetribblesmap.bsp E:\QuakeDev\id1\maps
-copy miniaturetribblesmap.pts E:\QuakeDev\id1\maps
-copy miniaturetribblesmap.lit E:\QuakeDev\id1\maps
+copy testlevel.bsp Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
+copy testlevel.pts Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
+copy testlevel.lit Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
 pause
 cd\
-cd E:\QuakeDev
-quakespasm  +map miniaturetribblesmap
+cd Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev
+quakespasm  +map testlevel

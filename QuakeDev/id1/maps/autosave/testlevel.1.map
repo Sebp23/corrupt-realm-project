@@ -1,0 +1,30 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/corrupt_realm.wad;Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad"
+// brush 0
+{
+( -320 64 -16 ) ( -320 64 0 ) ( -320 -64 0 ) __TB_empty 0 0 0 1 1
+( 64 -64 0 ) ( 64 -64 -16 ) ( -320 -64 -16 ) __TB_empty 0 0 0 1 1
+( -320 -64 -16 ) ( 64 -64 -16 ) ( 64 64 -16 ) __TB_empty 0 0 0 1 1
+( 64 64 0 ) ( 64 -64 0 ) ( -320 -64 0 ) __TB_empty 0 0 0 1 1
+( 64 64 -16 ) ( 64 64 0 ) ( -320 64 0 ) __TB_empty 0 0 0 1 1
+( 64 64 -16 ) ( 64 -64 -16 ) ( 64 -64 0 ) __TB_empty 0 0 0 1 1
+}
+// brush 1
+{
+( -288 64 0 ) ( -288 64 56 ) ( -288 32 56 ) 32_grey_3 0 0 0 1 1
+( -256 32 56 ) ( -256 32 0 ) ( -288 32 0 ) 32_grey_3 0 0 0 1 1
+( -288 32 0 ) ( -256 32 0 ) ( -256 64 0 ) 32_grey_3 0 0 0 1 1
+( -256 64 56 ) ( -256 32 56 ) ( -288 32 56 ) 32_grey_3 0 0 0 1 1
+( -256 64 0 ) ( -256 64 56 ) ( -288 64 56 ) 32_grey_3 0 0 0 1 1
+( -256 64 0 ) ( -256 32 0 ) ( -256 32 56 ) 32_grey_3 0 0 0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "-272 16 24"
+}
