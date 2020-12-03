@@ -1,15 +1,19 @@
 ---- light / ericw-tools v0.18.1 ----
 Raytracing backend: Embree
 running with 8 threads
-LoadBSPFile: 'testlevel.bsp'
+LoadBSPFile: 'corruptrealm.bsp'
 BSP is version 29
 --- LoadEntities ---
-2 entities read, 0 are lights.
+WARNING: brush entity with mins (-1982.59 622.27 -10) maxs (-1962.49 635.00 -60) (func_door) has empty key/value "angle" ""
+WARNING: brush entity with mins (-2004.69 427.05 70.) maxs (-1848.31 469.25 145) (func_door) has unmatched "target" (stairs_path)
+WARNING: brush entity with mins (-1179.64 -3016.77 -) maxs (-1166.91 -3004.04 -) (func_button) has empty key/value "message" ""
+WARNING: brush entity with mins (-413.53 -2795.77 -3) maxs (-400.80 -2783.04 -3) (func_button) has empty key/value "message" ""
+33 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	0 sky faces
-	602 solid faces
+	870 sky faces
+	11769 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -24,8 +28,8 @@ Lighting Completed.
 
 lightdatasize: 0
 0 switchable light styles (32 max)
-Writing testlevel.bsp as BSP version 29
-0.106 seconds elapsed
+Writing corruptrealm.bsp as BSP version 29
+1.063 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
