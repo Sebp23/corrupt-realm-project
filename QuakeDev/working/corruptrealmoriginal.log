@@ -1,0 +1,64 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: corruptrealmoriginal.map
+Output file: corruptrealmoriginal.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+         3904 faces
+          650 brushes
+           62 entities
+           10 unique texnames
+           82 texinfo
+
+Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          606 brushes
+          718 planes
+---- CSGFaces ----
+         3640 brushfaces
+         3937 csgfaces
+         3609 mergedfaces
+---- SolidBSP ----
+         4374 split nodes
+         1822 solid leafs
+         2310 empty leafs
+          243 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+        14334 leaffaces
+        13271 nodefaces
+---- Portalize ----
+         2553 vis leafs
+         2553 vis clusters
+         7639 vis portals
+---- FillOutside ----
+*** WARNING 10: Reached occupant at (-96 536 384), no filling performed.
+Leak file written to corruptrealmoriginal.pts
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 10: Reached occupant at (-8 -3240 552), no filling performed.
+Processing hull 2...
+*** WARNING 10: Reached occupant at (-8 -3240 552), no filling performed.
+---- WriteBSPFile ----
+Wrote corruptrealmoriginal.bsp
+          990 planes            19800
+        16001 vertexes         192012
+         4596 nodes            110304
+           78 texinfo            3120
+        13535 faces            270700
+         8238 clipnodes         65904
+         2744 leafs             76832
+        14598 marksurfaces      29196
+        54018 surfedges        216072
+        33659 edges            134636
+           10 textures          64364
+              lightdata             0
+              visdata               0
+              entdata            2928
+
+0.809 seconds elapsed
+Peak memory usage: 54744552 (52.2M)
