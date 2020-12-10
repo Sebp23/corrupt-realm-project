@@ -4,14 +4,18 @@ running with 8 threads
 LoadBSPFile: 'corruptrealmfinal.bsp'
 BSP is version 29
 --- LoadEntities ---
-WARNING: brush entity with mins (-527.00 153.00 217.) maxs (-481.00 183.00 311.) (func_door) has empty key/value "angle" ""
+WARNING: brush entity with mins (-527.00 321.00 217.) maxs (-481.00 351.00 311.) (func_door) has empty key/value "angle" ""
 WARNING: brush entity with mins (-575.00 -271.00 593) maxs (-233.00 -177.00 759) (func_door) has unmatched "target" (stairs_path)
-82 entities read, 0 are lights.
+WARNING: brush entity with mins (513.00 1113.00 633.) maxs (543.00 1143.00 663.) (func_button) has empty key/value "sounds" ""
+WARNING: entity at (-1716 2179 192) (monster_army) has unmatched "target" (s)
+WARNING: entity at (-1708 2011 192) (monster_army) has unmatched "target" (s)
+WARNING: brush entity with mins (-895.00 -775.00 409) maxs (-737.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
+130 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	844 sky faces
-	14492 solid faces
+	838 sky faces
+	14762 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -27,7 +31,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-0.750 seconds elapsed
+0.769 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
