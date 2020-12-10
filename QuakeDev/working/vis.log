@@ -1,7 +1,7 @@
 ---- vis / ericw-tools v0.18.1 ----
 running with 8 threads
 testlevel = 4
-LoadBSPFile: 'corruptrealmfinal.bsp'
+LoadBSPFile: 'corruptrealmoriginal.bsp'
 BSP is version 29
-LoadPortals: couldn't read corruptrealmfinal.prt
+LoadPortals: couldn't read corruptrealmoriginal.prt
 No vising performed.

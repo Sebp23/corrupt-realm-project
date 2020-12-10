@@ -58,7 +58,7 @@ Wrote corruptrealmoriginal.bsp
            10 textures          64364
               lightdata             0
               visdata               0
-              entdata            2928
+              entdata            2902
 
-0.806 seconds elapsed
+1.115 seconds elapsed
 Peak memory usage: 54744552 (52.2M)
