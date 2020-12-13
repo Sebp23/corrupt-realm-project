@@ -14,13 +14,18 @@ noclip
 notarget
 noclip
 notarget
-noclip
-notarget
-noclip
-notarget
-noclip
-notarget
 map HateforgeManor_Graybox
 map CheyenneMountain
 noclip
 notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip

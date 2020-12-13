@@ -9,12 +9,8 @@ WARNING: brush entity with mins (-831.00 -271.00 593) maxs (-489.00 -177.00 759)
 WARNING: brush entity with mins (257.00 1113.00 633.) maxs (287.00 1143.00 663.) (func_button) has empty key/value "sounds" ""
 WARNING: entity at (-1716 2179 192) (monster_army) has unmatched "target" (s)
 WARNING: entity at (-1708 2011 192) (monster_army) has unmatched "target" (s)
-WARNING: entity at (832 2656 216) (monster_dog) has empty key/value "killtarget" ""
-WARNING: entity at (832 2656 216) (monster_dog) has empty key/value "targetname" ""
-WARNING: entity at (832 2336 216) (monster_dog) has empty key/value "killtarget" ""
 WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
-WARNING: entity at (728 2504 344) (trigger_counter) has targetname "heavy_door_counter" which is not targetted by anything.
-136 entities read, 0 are lights.
+153 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -35,7 +31,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-0.832 seconds elapsed
+0.983 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
