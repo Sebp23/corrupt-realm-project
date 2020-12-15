@@ -15,7 +15,7 @@ WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607)
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	854 sky faces
-	15108 solid faces
+	15104 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -31,7 +31,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-0.983 seconds elapsed
+1.272 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

@@ -4,22 +4,22 @@ Output file: corruptrealmfinal.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         5010 faces
-          833 brushes
+         5022 faces
+          835 brushes
           199 entities
-           17 unique texnames
-          145 texinfo
+           25 unique texnames
+          170 texinfo
 
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/corrupt_realm.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          777 brushes
+          779 brushes
          1104 planes
 ---- CSGFaces ----
-         4674 brushfaces
-         5527 csgfaces
-         4985 mergedfaces
+         4686 brushfaces
+         5532 csgfaces
+         4992 mergedfaces
 ---- SolidBSP ----
          6222 split nodes
          2570 solid leafs
@@ -29,8 +29,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        17575 leaffaces
-        16076 nodefaces
+        17572 leaffaces
+        16072 nodefaces
 ---- Portalize ----
          3653 vis leafs
          3653 vis clusters
@@ -47,19 +47,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote corruptrealmfinal.bsp
          2180 planes            43600
-        19623 vertexes         235476
+        19647 vertexes         235764
          6516 nodes            156384
-          137 texinfo            5480
-        16412 faces            328240
+          158 texinfo            6320
+        16408 faces            328160
         11576 clipnodes         92608
          3916 leafs            109648
-        17911 marksurfaces      35822
-        65456 surfedges        261824
-        41479 edges            165916
-           17 textures         114992
+        17908 marksurfaces      35816
+        65440 surfedges        261760
+        41503 edges            166012
+           25 textures         183344
               lightdata             0
               visdata               0
               entdata           12287
 
-1.024 seconds elapsed
-Peak memory usage: 70533886 (67.3M)
+0.959 seconds elapsed
+Peak memory usage: 70553240 (67.3M)
