@@ -10,12 +10,13 @@ WARNING: brush entity with mins (257.00 1113.00 633.) maxs (287.00 1143.00 663.)
 WARNING: entity at (-1716 2179 192) (monster_army) has unmatched "target" (s)
 WARNING: entity at (-1708 2011 192) (monster_army) has unmatched "target" (s)
 WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
-153 entities read, 0 are lights.
+WARNING: brush entity with mins (81.00 -399.00 977.0) maxs (183.00 -393.00 1071) (func_door_secret) has unmatched "target" (secret_path1)
+176 entities read, 0 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	854 sky faces
-	15104 solid faces
+	844 sky faces
+	15057 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -31,7 +32,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-1.272 seconds elapsed
+0.790 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point

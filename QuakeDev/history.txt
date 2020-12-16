@@ -3,20 +3,9 @@ notarget
 noclip
 notarget
 noclip
-notarget
+gamma
 noclip
-notarget
-noclip
-notarget
-noclip
-notarget
-noclip
-notarget
-map HateforgeManor_Graybox
-map CheyenneMountain
-noclip
-notarget
-noclip
+gamma
 notarget
 noclip
 notarget
@@ -29,3 +18,14 @@ notarget
 noclip
 notarget
 noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+notarget
