@@ -14,31 +14,31 @@ WARNING: entity at (344 -2292 432) (monster_shambler) has targetname "shambler" 
 WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
 WARNING: brush entity with mins (81.00 -399.00 977.0) maxs (183.00 -393.00 1071) (func_door_secret) has unmatched "target" (secret_path1)
 WARNING: couldn't parse '' as number for key 'sunlight'
-544 entities read, 368 are lights.
+547 entities read, 371 are lights.
 --- OptionsSummary ---
     "sunlight" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	830 sky faces
-	18312 solid faces
+	18359 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 368 initial lights
-SetupLights: 368 after surface lights
-SetupLights: 368 after jittering
+SetupLights: 371 initial lights
+SetupLights: 371 after surface lights
+SetupLights: 371 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 368 lights 1 suns in use.
+Final count: 371 lights 1 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 452677
+lightdatasize: 453141
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-1.084 seconds elapsed
+1.240 seconds elapsed
 
 stats:
-1.142348 lights tested, 0.689224 hits per sample point
+1.149665 lights tested, 0.693950 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

@@ -1,8 +1,3 @@
-notarget
-noclip
-notarget
-noclip
-notarget
 noclip
 notarget
 noclip
@@ -29,3 +24,8 @@ noclip
 notarget
 noclip
 notarget
+noclip
+notarget
+noclip
+notarget
+noclip
