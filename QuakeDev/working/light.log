@@ -13,8 +13,13 @@ WARNING: entity at (-1708 2011 192) (monster_army) has unmatched "target" (s)
 WARNING: entity at (344 -2292 432) (monster_shambler) has targetname "shambler" which is not targetted by anything.
 WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
 WARNING: brush entity with mins (81.00 -399.00 977.0) maxs (183.00 -393.00 1071) (func_door_secret) has unmatched "target" (secret_path1)
+WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has "killtarget" set to itself
+WARNING: brush entity with mins (-351.00 -951.00 409) maxs (-193.00 -921.00 607) (trigger_once) has "killtarget" set to itself
+WARNING: brush entity with mins (-415.00 -1191.00 40) maxs (-129.00 -1161.00 60) (trigger_once) has "killtarget" set to itself
+WARNING: brush entity with mins (-415.00 -1415.00 40) maxs (-129.00 -1385.00 60) (trigger_once) has "killtarget" set to itself
+WARNING: brush entity with mins (-415.00 -1559.00 40) maxs (-129.00 -1529.00 60) (trigger_once) has "killtarget" set to itself
 WARNING: couldn't parse '' as number for key 'sunlight'
-547 entities read, 371 are lights.
+552 entities read, 371 are lights.
 --- OptionsSummary ---
     "sunlight" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
@@ -33,10 +38,10 @@ Final count: 371 lights 1 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 453141
+lightdatasize: 453143
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-1.240 seconds elapsed
+1.118 seconds elapsed
 
 stats:
 1.149665 lights tested, 0.693950 hits per sample point

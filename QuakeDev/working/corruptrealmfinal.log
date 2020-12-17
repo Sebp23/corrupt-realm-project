@@ -4,11 +4,11 @@ Output file: corruptrealmfinal.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         8000 faces
-         1379 brushes
-          837 entities
+         8030 faces
+         1384 brushes
+          842 entities
            62 unique texnames
-         1508 texinfo
+         1517 texinfo
 
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/corrupt_realm.wad
@@ -44,20 +44,20 @@ Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote corruptrealmfinal.bsp
-         3098 planes            61960
-        23916 vertexes         286992
-         8673 nodes            208152
-         1390 texinfo           55600
-        19765 faces            395300
-         9840 clipnodes         78720
-         5169 leafs            144732
-        21947 marksurfaces      43894
-        78306 surfedges        313224
-        50804 edges            203216
+         3114 planes            62280
+        23968 vertexes         287616
+         8703 nodes            208872
+         1399 texinfo           55960
+        19807 faces            396140
+         9900 clipnodes         79200
+         5199 leafs            145572
+        21989 marksurfaces      43978
+        78474 surfedges        313896
+        50888 edges            203552
            71 textures         493748
               lightdata             0
               visdata               0
-              entdata           49360
+              entdata           49471
 
-1.830 seconds elapsed
-Peak memory usage: 88531882 (84.4M)
+1.571 seconds elapsed
+Peak memory usage: 88615998 (84.5M)

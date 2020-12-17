@@ -1,12 +1,4 @@
 noclip
-notarget
-noclip
-notarget
-noclip
-notarget
-noclip
-notarget
-noclip
 noclip\
 noclip
 notarget
@@ -24,6 +16,14 @@ noclip
 notarget
 noclip
 notarget
+noclip
+notarget
+noclip
+notarget
+noclip
+hateforgemanor
+map outpostzeta
+map churchofman
 noclip
 notarget
 noclip
