@@ -4,37 +4,40 @@ running with 8 threads
 LoadBSPFile: 'corruptrealmfinal.bsp'
 BSP is version 29
 --- LoadEntities ---
+WARNING: entity at () (worldspawn) has empty key/value "_sunlight" ""
 WARNING: brush entity with mins (-783.00 329.00 217.) maxs (-737.00 343.00 311.) (func_door) has empty key/value "angle" ""
-WARNING: brush entity with mins (-831.00 -271.00 593) maxs (-489.00 -177.00 759) (func_door) has unmatched "target" (stairs_path)
-WARNING: brush entity with mins (257.00 1113.00 633.) maxs (287.00 1143.00 663.) (func_button) has empty key/value "sounds" ""
+WARNING: brush entity with mins (-823.00 -271.00 593) maxs (-481.00 -177.00 759) (func_door) has unmatched "target" (stairs_path)
+WARNING: brush entity with mins (257.00 1097.00 633.) maxs (287.00 1127.00 663.) (func_button) has empty key/value "sounds" ""
 WARNING: entity at (-1716 2179 192) (monster_army) has unmatched "target" (s)
 WARNING: entity at (-1708 2011 192) (monster_army) has unmatched "target" (s)
 WARNING: brush entity with mins (-1151.00 -775.00 40) maxs (-993.00 -745.00 607) (trigger_once) has empty key/value "targetname" ""
 WARNING: brush entity with mins (81.00 -399.00 977.0) maxs (183.00 -393.00 1071) (func_door_secret) has unmatched "target" (secret_path1)
-176 entities read, 0 are lights.
+WARNING: couldn't parse '' as number for key 'sunlight'
+540 entities read, 358 are lights.
 --- OptionsSummary ---
+    "sunlight" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	844 sky faces
-	15057 solid faces
+	832 sky faces
+	17781 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 358 initial lights
+SetupLights: 358 after surface lights
+SetupLights: 358 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 358 lights 1 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 433109
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-0.790 seconds elapsed
+1.028 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+1.079184 lights tested, 0.655034 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

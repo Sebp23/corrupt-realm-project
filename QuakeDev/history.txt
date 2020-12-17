@@ -3,9 +3,6 @@ notarget
 noclip
 notarget
 noclip
-gamma
-noclip
-gamma
 notarget
 noclip
 notarget
@@ -22,10 +19,13 @@ notarget
 noclip
 notarget
 noclip
-notarget
+noclip\
 noclip
 notarget
 noclip
 notarget
 noclip
 notarget
+noclip
+notarget
+noclip

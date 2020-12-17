@@ -23,7 +23,6 @@ Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\tools\ericw-tools\bin\light.e
 copy corruptrealmfinal.bsp Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
 copy corruptrealmfinal.pts Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
 copy corruptrealmfinal.lit Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev\id1\maps
-pause
 cd\
 cd Q:\Workspace\GitHub\corrupt-realm-project\QuakeDev
 quakespasm  +map corruptrealmfinal
