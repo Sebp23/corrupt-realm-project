@@ -4,60 +4,62 @@ Output file: corruptrealmfinal.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         8030 faces
-         1384 brushes
-          842 entities
+         8228 faces
+         1417 brushes
+          849 entities
            62 unique texnames
-         1517 texinfo
+         1708 texinfo
 
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/corrupt_realm.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-         1317 brushes
-         1509 planes
+         1355 brushes
+         1633 planes
 ---- CSGFaces ----
-         7628 brushfaces
-         8048 csgfaces
-         7101 mergedfaces
+         7856 brushfaces
+         8388 csgfaces
+         7416 mergedfaces
 ---- SolidBSP ----
-         8343 split nodes
-         3474 solid leafs
-         4502 empty leafs
-          368 water leafs
+         8814 split nodes
+         3635 solid leafs
+         4791 empty leafs
+          389 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-        21575 leaffaces
-        19393 nodefaces
+        22454 leaffaces
+        20266 nodefaces
 ---- Portalize ----
-         4870 vis leafs
-         4870 vis clusters
-        15948 vis portals
+         5180 vis leafs
+         5180 vis clusters
+        17201 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (-1008 -3392 248), no filling performed.
 Leak file written to corruptrealmfinal.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
+*** WARNING 10: Reached occupant at (-696 -248 860), no filling performed.
 Processing hull 2...
+*** WARNING 10: Reached occupant at (-696 -248 860), no filling performed.
 ---- WriteBSPFile ----
 Wrote corruptrealmfinal.bsp
-         3114 planes            62280
-        23968 vertexes         287616
-         8703 nodes            208872
-         1399 texinfo           55960
-        19807 faces            396140
-         9900 clipnodes         79200
-         5199 leafs            145572
-        21989 marksurfaces      43978
-        78474 surfedges        313896
-        50888 edges            203552
+         3586 planes            71720
+        25034 vertexes         300408
+         9144 nodes            219456
+         1574 texinfo           62960
+        20642 faces            412840
+        17902 clipnodes        143216
+         5479 leafs            153412
+        22830 marksurfaces      45660
+        81798 surfedges        327192
+        53303 edges            213212
            71 textures         493748
               lightdata             0
               visdata               0
-              entdata           49471
+              entdata           49986
 
-1.571 seconds elapsed
-Peak memory usage: 88615998 (84.5M)
+1.376 seconds elapsed
+Peak memory usage: 99642744 (95.0M)
