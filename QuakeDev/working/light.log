@@ -33,10 +33,10 @@ Final count: 373 lights 1 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 471513
+lightdatasize: 471516
 0 switchable light styles (32 max)
 Writing corruptrealmfinal.bsp as BSP version 29
-1.040 seconds elapsed
+0.981 seconds elapsed
 
 stats:
 1.162609 lights tested, 0.702425 hits per sample point

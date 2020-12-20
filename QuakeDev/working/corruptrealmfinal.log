@@ -10,7 +10,6 @@ Output file: corruptrealmfinal.bsp
            62 unique texnames
          1708 texinfo
 
-Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/prototype_1_2.wad
 Opened WAD: Q:/Workspace/GitHub/corrupt-realm-project/QuakeDev/wads/corrupt_realm.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
@@ -44,6 +43,15 @@ Processing hull 1...
 *** WARNING 10: Reached occupant at (-696 -248 860), no filling performed.
 Processing hull 2...
 *** WARNING 10: Reached occupant at (-696 -248 860), no filling performed.
+*** WARNING 16: Texture 32_brown_3 not found
+*** WARNING 16: Texture 32_grey_3 not found
+*** WARNING 16: Texture *64_water1_2 not found
+*** WARNING 16: Texture 32_grey_2 not found
+*** WARNING 16: Texture 32_green_2 not found
+*** WARNING 16: Texture 32_brown_2 not found
+*** WARNING 16: Texture *waterskip not found
+*** WARNING 16: Texture 32_honey_2 not found
+*** WARNING 16: Texture 32_gold_2 not found
 ---- WriteBSPFile ----
 Wrote corruptrealmfinal.bsp
          3586 planes            71720
@@ -56,10 +64,10 @@ Wrote corruptrealmfinal.bsp
         22830 marksurfaces      45660
         81798 surfedges        327192
         53303 edges            213212
-           71 textures         493748
+           71 textures         472988
               lightdata             0
               visdata               0
-              entdata           49986
+              entdata           49955
 
-1.376 seconds elapsed
-Peak memory usage: 99642744 (95.0M)
+1.313 seconds elapsed
+Peak memory usage: 99629120 (95.0M)
