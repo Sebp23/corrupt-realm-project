@@ -1,12 +1,6 @@
 noclip
 notarget
 noclip
-notarget
-noclip
-notarget
-noclip
-notarget
-noclip
 hateforgemanor
 map outpostzeta
 map churchofman
@@ -29,3 +23,9 @@ fov 105
 god
 noclip
 notarget
+god
+notarget
+noclip
+fov 105
+r_drawviewmodel 0
+viewsize 120
