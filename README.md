@@ -1,4 +1,4 @@
-# The Corrupted Realm
+# The Corrupt Realm
 
 ## Information
 This is a singleplayer level for Quake. The main objective is to survive and escape the area. The theme is rather dark, and it should invoke a sense of anxiety and tension, rather than fear. More info for this project in the Manifesto.
